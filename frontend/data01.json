@@ -1,0 +1,610 @@
+[
+    {
+        "question": "What courses does Classic Learn offer?",
+        "answer": "At Classic Learn, we offer Nursing, Graphic Design, Website Design, Data Science, and Python programming courses."
+    },
+    {
+        "question": "Is the Nursing course suitable for beginners?",
+        "answer": "Yes, our Nursing course is designed for both beginners and those looking to enhance their skills."
+    },
+    {
+        "question": "What courses do you offer?",
+        "answer": "At Classic Learn, we offer Nursing, Graphic Design, Website Design, Data Science, and Python programming courses."
+    },
+    {
+        "question": "What will I learn in the Website Design course?",
+        "answer": "The Website Design course covers HTML, CSS, JavaScript, and responsive design principles to create stunning websites."
+    },
+    {
+        "question": "What will I learn in the Python programming course?",
+        "answer": "The Python programming course covers basic to advanced Python concepts, including data structures, algorithms, and web development."
+    },
+    {
+        "question": "What will I learn in the Nursing course?",
+        "answer": "the Nursing course covers patient care, medical terminology, and essential nursing skills."
+    },
+    {
+        "question": "What is covered in the Nursing course?",
+        "answer": "Our Nursing course provides an in-depth understanding of patient care, health practices, and essential healthcare skills."
+    },
+    {
+        "question": "What will I learn in the Graphic Design course?",
+        "answer": "The Graphic Design course covers visual communication, layout design, color theory, and creating eye-catching designs."
+    },
+    {
+        "question": "Does the Website Design course teach coding?",
+        "answer": "Yes, it covers HTML, CSS, and advanced design principles to help you build engaging websites."
+    },
+    {
+        "question": "What topics are included in the Data Science course?",
+        "answer": "It includes data collection, analysis, visualization, and machine learning concepts to solve real-world problems."
+    },
+    {
+        "question": "Is the Python course for beginners?",
+        "answer": "Yes, it starts with the fundamentals and progresses to building applications and automation."
+    },
+    {
+        "question": "Do you offer certification for completed courses?",
+        "answer": "Yes, all Classic Learn courses come with industry-recognized certifications."
+    },
+    {
+        "question": "Is there job placement assistance after course completion?",
+        "answer": "Yes, we offer job placement support to help students secure roles in their respective fields."
+    },
+    {
+        "question": "How can I enroll in a course?",
+        "answer": "You can enroll via our website by selecting a course and completing the registration process."
+    },
+    {
+        "question": "Are the courses available online?",
+        "answer": "Yes, all our courses are available online with live and recorded sessions."
+    },
+    {
+        "question": "Can working professionals join these courses?",
+        "answer": "Yes, our courses are designed for both students and working professionals."
+    },
+    {
+        "question": "How long does it take to complete a course?",
+        "answer": "Course durations vary, typically ranging from 3 to 6 months depending on the subject."
+    },
+    {
+        "question": "What are the fees for your courses?",
+        "answer": "Course fees vary. Please visit our website or contact us for detailed pricing."
+    },
+    {
+        "question": "Are there any discounts available?",
+        "answer": "Yes, we offer discounts for early registrations and group enrollments."
+    },
+    {
+        "question": "Do you provide study materials?",
+        "answer": "Yes, we provide comprehensive study materials and resources for each course."
+    },
+    {
+        "question": "Are there live sessions or only recorded videos?",
+        "answer": "We offer both live interactive sessions and recorded video lessons."
+    },
+    {
+        "question": "Is there a free trial available?",
+        "answer": "Yes, we offer a free trial class for select courses."
+    },
+    {
+        "question": "What is the teaching methodology at Classic Learn?",
+        "answer": "We follow a practical and interactive teaching approach with real-world projects."
+    },
+    {
+        "question": "Can I access course materials after completion?",
+        "answer": "Yes, you will have lifetime access to course materials."
+    },
+    {
+        "question": "What are the prerequisites for the Data Science course?",
+        "answer": "Basic knowledge of statistics and programming is recommended but not required."
+    },
+    {
+        "question": "Does the Python course include hands-on projects?",
+        "answer": "Yes, it includes multiple hands-on coding projects."
+    },
+    {
+        "question": "What software do I need for the Graphic Design course?",
+        "answer": "You will need Adobe Photoshop, Illustrator, or similar graphic design tools."
+    },
+    {
+        "question": "Is the Website Design course beginner-friendly?",
+        "answer": "Yes, it covers everything from basic HTML to advanced design techniques."
+    },
+    {
+        "question": "Do you offer career counseling?",
+        "answer": "Yes, we provide career guidance and mentorship."
+    },
+    {
+        "question": "Are Classic Learn courses recognized by employers?",
+        "answer": "Yes, our certifications are valued in the industry."
+    },
+    {
+        "question": "Can I switch courses after enrollment?",
+        "answer": "Yes, you can switch within the first two weeks of enrollment."
+    },
+    {
+        "question": "Is there an installment payment option?",
+        "answer": "Yes, we offer flexible payment plans."
+    },
+    {
+        "question": "What is the refund policy?",
+        "answer": "You can request a refund within the first 7 days of enrollment."
+    },
+    {
+        "question": "Are there community forums for discussions?",
+        "answer": "Yes, we have a student community for discussions and networking."
+    },
+    {
+        "question": "Do I need prior experience for the Graphic Design course?",
+        "answer": "No, it is designed for beginners as well as professionals."
+    },
+    {
+        "question": "How do I get support during my course?",
+        "answer": "You can contact our support team via email or live chat."
+    },
+    {
+        "question": "Is there a mobile app for Classic Learn?",
+        "answer": "Yes, we have a mobile app for easy course access."
+    },
+    {
+        "question": "Can I get a personal mentor for guidance?",
+        "answer": "Yes, mentorship is available for select courses."
+    },
+    {
+        "question": "Do you offer corporate training programs?",
+        "answer": "Yes, we provide customized corporate training solutions."
+    },
+    {
+        "question": "What are the benefits of online learning?",
+        "answer": "Flexibility, accessibility, and the ability to learn at your own pace."
+    },
+    {
+        "question": "How do I reset my password?",
+        "answer": "You can reset your password by clicking on 'Forgot Password' on the login page."
+    },
+    {
+        "question": "Can I download the course materials?",
+        "answer": "Yes, most course materials are available for download."
+    },
+    {
+        "question": "Do you offer language courses?",
+        "answer": "Currently, we do not offer language courses."
+    },
+    {
+        "question": "Are the courses available internationally?",
+        "answer": "Yes, our courses are accessible from anywhere in the world."
+    },
+    {
+        "question": "How can I contact customer support?",
+        "answer": "You can reach us via email, phone, or live chat."
+    },
+    {
+        "question": "Do you offer soft skills training?",
+        "answer": "Yes, we have courses on communication and leadership skills."
+    },
+    {
+        "question": "Can I get an internship after completing a course?",
+        "answer": "We assist students in finding internship opportunities."
+    },
+    {
+        "question": "What is the average salary after completing a course?",
+        "answer": "Salaries vary based on the industry and job role."
+    },
+    {
+        "question": "Are exams conducted online?",
+        "answer": "Yes, assessments and exams are conducted online."
+    },
+    {
+        "question": "Can I get a demo of the platform before enrolling?",
+        "answer": "Yes, we provide a demo session for new users."
+    },
+    {
+        "question": "How often are new courses added?",
+        "answer": "We regularly update and add new courses based on industry trends."
+    },
+    {
+        "question": "What is the duration of the free trial?",
+        "answer": "The free trial lasts for 7 days."
+    },
+    {
+        "question": "How do I provide feedback on a course?",
+        "answer": "You can provide feedback through the course portal after completion."
+    },
+    {
+        "question": "Are there any group discounts available?",
+        "answer": "Yes, we offer discounts for group enrollments."
+    },
+    {
+        "question": "What if I miss a live session?",
+        "answer": "All live sessions are recorded and available for later viewing."
+    },
+    {
+        "question": "Can I access the course on multiple devices?",
+        "answer": "Yes, you can access your course from any device."
+    },
+    {
+        "question": "Is there a limit to how many times I can watch a video?",
+        "answer": "No, you can watch videos as many times as you like."
+    },
+    {
+        "question": "Do you have a referral program?",
+        "answer": "Yes, we offer rewards for referring new students."
+    },
+    {
+        "question": "What is the best way to prepare for the exams?",
+        "answer": "Review the course materials and practice with sample questions."
+    },
+    {
+        "question": "Can I get a certificate for completing the free trial?",
+        "answer": "No, certificates are issued only after completing a paid course."
+    },
+    {
+        "question": "How do I update my profile information?",
+        "answer": "You can update your profile in the account settings section."
+    },
+    {
+        "question": "Are there any prerequisites for the Nursing course?",
+        "answer": "No, the Nursing course is open to all students."
+    },
+    {
+        "question": "What payment methods are accepted?",
+        "answer": "We accept credit cards, debit cards, and PayPal."
+    },
+    {
+        "question": "Is there a community for alumni?",
+        "answer": "Yes, we have an alumni network for past students."
+    },
+    {
+        "question": "How do I apply for a scholarship?",
+        "answer": "You can apply for scholarships through our website."
+    },
+    {
+        "question": "Are there any hidden fees?",
+        "answer": "No, all fees are clearly stated during the enrollment process."
+    },
+    {
+        "question": "Can I pause my course?",
+        "answer": "Yes, you can pause your course and resume later."
+    },
+    {
+        "question": "What is the average class size?",
+        "answer": "Our classes typically have 15-20 students."
+    },
+    {
+        "question": "Do you offer one-on-one tutoring?",
+        "answer": "Yes, personalized tutoring sessions are available."
+    },
+    {
+        "question": "How do I access live sessions?",
+        "answer": "Live sessions can be accessed through the course dashboard."
+    },
+    {
+        "question": "Is there a mobile-friendly version of the platform?",
+        "answer": "Yes, our platform is optimized for mobile devices."
+    },
+    {
+        "question": "What if I have technical issues during a session?",
+        "answer": "You can contact our support team for immediate assistance."
+    },
+    {
+        "question": "Can I share my course access with someone else?",
+        "answer": "No, course access is non-transferable."
+    },
+    {
+        "question": "How do I know if a course is right for me?",
+        "answer": "You can read course descriptions and reviews to help you decide."
+    },
+    {
+        "question": "What if I don't like the course?",
+        "answer": "We offer a satisfaction guarantee and a refund policy."
+    },
+    {
+        "question": "Are there any age restrictions for enrollment?",
+        "answer": "No, our courses are open to all ages."
+    },
+    {
+        "question": "How do I stay motivated during the course?",
+        "answer": "Set personal goals and engage with fellow students."
+    },
+    {
+        "question": "Can I get a job after completing the Python course?",
+        "answer": "Yes, many students find jobs in software development after completing the course."
+    },
+    {
+        "question": "What is the best way to contact instructors?",
+        "answer": "You can contact instructors through the course portal."
+    },
+    {
+        "question": "Are there any live projects in the Data Science course?",
+        "answer": "Yes, you will work on real-world data science projects."
+    },
+    {
+        "question": "How do I access recorded sessions?",
+        "answer": "Recorded sessions are available in the course library."
+    },
+    {
+        "question": "What is the average time commitment per week?",
+        "answer": "Students typically spend 5-10 hours per week on coursework."
+    },
+    {
+        "question": "Can I get a refund if I change my mind?",
+        "answer": "Yes, you can request a refund within the first 7 days of enrollment."
+    },
+    {
+        "question": "How do I prepare for the final exam?",
+        "answer": "Review all course materials and take practice tests."
+    },
+    {
+        "question": "Are there any networking opportunities?",
+        "answer": "Yes, we host webinars and networking events for students."
+    },
+    {
+        "question": "What is the best way to study for the courses?",
+        "answer": "Regularly review materials and participate in discussions."
+    },
+    {
+        "question": "Can I access the course offline?",
+        "answer": "Yes, you can download materials for offline access."
+    },
+    {
+        "question": "What if I have more questions?",
+        "answer": "Feel free to reach out to our support team for assistance."
+    },
+    {
+        "question": "How do I track my progress?",
+        "answer": "You can track your progress through the course dashboard."
+    },
+    {
+        "question": "Are there any group projects?",
+        "answer": "Yes, some courses include group projects for collaboration."
+    },
+    {
+        "question": "What is the best way to ask questions during a live session?",
+        "answer": "You can use the chat feature to ask questions during live sessions."
+    },
+    {
+        "question": "Can I get a job after completing the Graphic Design course?",
+        "answer": "Yes, many students find jobs in graphic design after completing the course."
+    },
+    {
+        "question": "How do I submit assignments?",
+        "answer": "Assignments can be submitted through the course portal."
+    },
+    {
+        "question": "Are there any prerequisites for the Website Design course?",
+        "answer": "No, the Website Design course is open to all students."
+    },
+    {
+        "question": "How do I give feedback on a course?",
+        "answer": "You can provide feedback through the course evaluation form."
+    },
+    {
+        "question": "Hello!",
+        "answer": "Hello there! How can I assist you today? 😊"
+    },
+    {
+        "question": "Hi!",
+        "answer": "Hi! How can I help you today? 😊"
+    },
+    {
+        "question": "Hey!",
+        "answer": "Hey! What’s on your mind today? 😊"
+    },
+    {
+        "question": "What’s up?",
+        "answer": "Not much, just here to help you! What do you need assistance with?"
+    },
+    {
+        "question": "How are you?",
+        "answer": "I’m just a chatbot, but I’m here and ready to help! How can I assist you today?"
+    },
+    {
+        "question": "How's it going?",
+        "answer": "I’m doing well, thank you! How can I assist you today?"
+    },
+    {
+        "question": "What can you do?",
+        "answer": "I can help you with course information, enrollment, and any questions you have about Classic Learn!"
+    },
+    {
+        "question": "Tell me about Classic Learn.",
+        "answer": "Classic Learn offers a variety of online courses in fields like Nursing, Graphic Design, Data Science, and more!"
+    },
+    {
+        "question": "What is your name?",
+        "answer": "I’m your friendly chatbot assistant! You can call me Classic Bot."
+    },
+    {
+        "question": "Can you tell me a joke?",
+        "answer": "Sure! Why did the computer go to therapy? Because it had too many bytes!"
+    },
+    {
+        "question": "What is your favorite course?",
+        "answer": "I don’t have favorites, but I think all our courses are amazing!"
+    },
+    {
+        "question": "Do you have any fun facts?",
+        "answer": "Did you know that online learning has been shown to improve retention rates by 25-60%?"
+    },
+    {
+        "question": "Can you help me with my studies?",
+        "answer": "Absolutely! Just let me know what you need help with."
+    },
+    {
+        "question": "Hi, how are you?",
+        "answer": "I'm just a chatbot, but I'm here and ready to help! How can I assist you today?"
+    },
+    {
+        "question": "Good morning!",
+        "answer": "Good morning! I hope you have a fantastic day ahead. How can I help you?"
+    },
+    {
+        "question": "Good afternoon!",
+        "answer": "Good afternoon! I’m here to assist you. What would you like to know?"
+    },
+    {
+        "question": "Good evening!",
+        "answer": "Good evening! I hope you had a great day. How can I assist you?"
+    },
+    {
+        "question": "Can you help me choose a course?",
+        "answer": "Of course! I’d love to help you pick the perfect course. What are your interests?"
+    },
+    {
+        "question": "I'm not sure which course to take.",
+        "answer": "No worries! Tell me a little about your interests or career goals, and I'll recommend the best course for you."
+    },
+    {
+        "question": "Are the courses difficult?",
+        "answer": "Our courses are designed for all skill levels. With dedication and our expert guidance, you’ll do great!"
+    },
+    {
+        "question": "I’m new to online learning. Will I be able to keep up?",
+        "answer": "Absolutely! Our courses are structured to be beginner-friendly, and you can learn at your own pace."
+    },
+    {
+        "question": "What if I struggle with the lessons?",
+        "answer": "Don’t worry! We have support available, including live Q&A sessions, community discussions, and mentorship."
+    },
+    {
+        "question": "Can I talk to an instructor?",
+        "answer": "Yes! Our instructors are available during live sessions and through our support channels."
+    },
+    {
+        "question": "Will I get support if I have doubts?",
+        "answer": "Yes, of course! We’re here to help you every step of the way. Just reach out anytime."
+    },
+    {
+        "question": "Can I take a break from the course?",
+        "answer": "Yes! You can pause and resume your course whenever needed. Learning should be flexible!"
+    },
+    {
+        "question": "How can I stay motivated while learning?",
+        "answer": "Set small goals, stay consistent, and don’t hesitate to ask for help. You got this! 💪"
+    },
+    {
+        "question": "Is online learning effective?",
+        "answer": "Yes! Online learning gives you flexibility and access to high-quality content from anywhere."
+    },
+    {
+        "question": "Will I be able to manage learning with my job?",
+        "answer": "Absolutely! Our courses are designed for working professionals, and you can learn at your own pace."
+    },
+    {
+        "question": "How do I stay on track with my learning?",
+        "answer": "We recommend setting a schedule, engaging in discussions, and practicing regularly."
+    },
+    {
+        "question": "Can I get a refund if I’m not satisfied?",
+        "answer": "Yes! We have a satisfaction guarantee and a refund policy within the first 7 days."
+    },
+    {
+        "question": "What if I have more questions later?",
+        "answer": "Feel free to reach out anytime! We’re here to help you with any questions you have."
+    },
+    {
+        "question": "I’m excited to start learning!",
+        "answer": "That’s fantastic! Learning is a journey, and we’re here to support you every step of the way. 🎉"
+    },
+    {
+        "question": "Thanks for your help!",
+        "answer": "You're very welcome! 😊 If you ever need assistance, I'm always here."
+    },
+    {
+        "question": "Can I get a personal learning plan?",
+        "answer": "Yes! Based on your interests and goals, we can guide you toward the best learning path."
+    },
+    {
+        "question": "Do you offer any motivational sessions?",
+        "answer": "Yes! We provide webinars and mentorship to keep you motivated throughout your learning journey."
+    },
+    {
+        "question": "Can I share my progress with friends?",
+        "answer": "Yes! You can showcase your achievements and even invite friends to learn with you."
+    },
+    {
+        "question": "How do I connect with other learners?",
+        "answer": "You can join our discussion forums and community groups to interact with fellow learners."
+    },
+    {
+        "question": "Is there a way to test my knowledge?",
+        "answer": "Yes! Our courses include quizzes and assignments to help reinforce your learning."
+    },
+    {
+        "question": "Can I showcase my skills after completing a course?",
+        "answer": "Yes! You’ll receive a certificate, and we encourage you to add your skills to your resume and LinkedIn."
+    },
+    {
+        "question": "I want to switch careers. Will these courses help?",
+        "answer": "Yes! Many of our learners have successfully transitioned into new careers after completing our courses."
+    },
+    {
+        "question": "Will I get feedback on my assignments?",
+        "answer": "Yes! Our instructors review your work and provide constructive feedback to help you improve."
+    },
+    {
+        "question": "Can I interact with other students?",
+        "answer": "Yes! Our platform has community discussions where you can collaborate and share ideas."
+    },
+    {
+        "question": "How can I make the most of my course?",
+        "answer": "Stay engaged, practice regularly, and don’t hesitate to ask questions. We're here to help!"
+    },
+    {
+        "question": "I feel nervous about starting a new course.",
+        "answer": "That’s completely normal! Take it one step at a time, and we’ll support you throughout your journey."
+    },
+    {
+        "question": "Can I learn at my own pace?",
+        "answer": "Yes! You can learn anytime, anywhere, and complete the course at your own speed."
+    },
+    {
+        "question": "How do I know if online learning is right for me?",
+        "answer": "If you enjoy flexibility, interactive content, and career growth, then online learning is a great fit for you!"
+    },
+    {
+        "question": "What happens after I complete a course?",
+        "answer": "You’ll receive a certificate, and we’ll help you with job placement and career guidance."
+    },
+    {
+        "question": "How do I stay consistent with learning?",
+        "answer": "Setting small goals, following a schedule, and engaging with the community can keep you on track."
+    },
+    {
+        "question": "Can I retake a lesson if I don’t understand it?",
+        "answer": "Yes! You can rewatch lessons anytime until you fully grasp the concepts."
+    },
+    {
+        "question": "How do I stay engaged with the course?",
+        "answer": "Participate in discussions, complete assignments, and ask questions whenever needed!"
+    },
+    {
+        "question": "I’m excited to start my journey!",
+        "answer": "That’s wonderful to hear! Wishing you the best in your learning adventure. 🚀"
+    },
+    {
+        "question": "Can I upgrade to a more advanced course later?",
+        "answer": "Yes! You can always upgrade or enroll in an advanced course when you're ready."
+    },
+    {
+        "question": "How do I make the best use of my learning experience?",
+        "answer": "Stay curious, ask questions, and apply what you learn through real-world projects."
+    },
+    {
+        "question": "I'm interested in multiple courses. Can I take more than one?",
+        "answer": "Absolutely! You can enroll in multiple courses and learn at your convenience."
+    },
+    {
+        "question": "Is there any interactive learning material?",
+        "answer": "Yes! We have quizzes, projects, and interactive lessons to make learning fun and effective."
+    },
+    {
+        "question": "What is the best way to complete a course successfully?",
+        "answer": "Stay consistent, participate actively, and make use of all available resources. You got this!"
+    },
+    {
+        "question": "I'm feeling stuck. Can you help?",
+        "answer": "Of course! Tell me what you’re struggling with, and I’ll do my best to assist you."
+    }
+]
