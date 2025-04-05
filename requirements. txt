@@ -1,13 +1,13 @@
-streamlit
 numpy
-scikit-learn
 regex
 tfIdfInheritVectorizer
-pandas
-numpy
 matplotlib
 nltk
 libglib2.0-0
 libsm6
 libxrender1
 libxext6
+streamlit==1.32.0
+scikit-learn==1.4.1
+numpy>=1.23
+pandas>=1.3
