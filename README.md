@@ -65,6 +65,94 @@ Ensure your repository is updated and public.
 
 ---
 
+# 🌐 Classic Learn Chatbot - Flask Web App Frontend
+
+This is the **frontend web application** built with **Flask**, designed to host and serve the Classic Learn Chatbot. The chatbot utilizes a **TF-IDF-based question-answering system** to respond to user queries related to Classic Learn's courses and services.
+
+---
+
+## 📦 Project Structure
+```bash
+frontend/ 
+│ 
+├── static/ # Static assets (CSS, JS, images) 
+│     ├── style.css 
+│  
+├── templates/ # HTML templates (Jinja2) 
+│     ├── index.html # Main chatbot UI
+│ 
+├── chatbot_pipeline.py # Imports and runs the Q&A logic
+│ 
+└── data01.json
+│ 
+└── DockerFile 
+└── docker-compoose.yml
+│ 
+└── requirements.txt 
+```
+
+---
+
+## 🚀 Features
+
+✅ Web-based chatbot interface  
+✅ Embeds the Classic Learn chatbot pipeline  
+✅ Custom HTML/CSS for interactive UI  
+✅ Handles user input and returns chatbot responses  
+✅ Modular and extendable design  
+
+---
+
+## ⚙️ Installation & Setup
+
+> Make sure to set up the backend before running the frontend.
+
+###  Clone the Repository
+
+```bash
+git clone https://github.com/ranjithsuineni/classic-learn-chatbot.git
+cd classic-learn-chatbot/frontend
+```
+
+ Install Dependencies
+```bash
+pip install -r ../requirements.txt
+```
+
+
+ Run the Flask Web App
+
+```bash
+python app.py
+```
+
+Once running, open your browser and go to:
+
+```cpp
+http://127.0.0.1:5000
+```
+
+---
+# 🧠 How It Works
+The Flask frontend (app.py) receives user input via a simple form.
+
+It sends the input to the chatbot_pipeline.py, which internally uses the TF-IDF vectorizer and JSON-based Q&A from the backend.
+
+The chatbot pipeline returns the best-matched response or a fallback message.
+
+The UI renders this response dynamically on the same page.
+
+--
+### 🖌 Customization
+🧠 Update Q&A Data
+Modify ../backend/data01.json to change the chatbot's knowledge base.
+
+### 🎨 Change UI Styles
+Edit static/style.css and templates/index.html to redesign the user interface.
+
+
+---
+
 ## 🤝 Contributing
 Pull requests are welcome! If you have suggestions, feel free to open an issue.
 
