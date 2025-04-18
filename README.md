@@ -63,6 +63,10 @@ Ensure your repository is updated and public.
 3. Select `backend/app_streamlite.py` as the main file.
 4. Deploy and get a **public link**.
 
+![image](https://github.com/user-attachments/assets/69aea437-3797-4f90-b0fd-c31627e20a3e)
+
+![image](https://github.com/user-attachments/assets/a262cd17-a9d2-4bf8-9582-f9d56ad1cbca)
+
 ---
 
 # 🌐 Classic Learn Chatbot - Flask Web App Frontend
@@ -131,6 +135,11 @@ Once running, open your browser and go to:
 ```cpp
 http://127.0.0.1:5000
 ```
+---
+
+![image](https://github.com/user-attachments/assets/516809a8-0ceb-4606-aab9-be9174c5f59c)
+
+![image](https://github.com/user-attachments/assets/02449426-bf90-469c-aa97-4e034fc97eaf)
 
 ---
 # 🧠 How It Works
